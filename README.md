@@ -12,8 +12,7 @@ This is a Java project that demonstrates how to use Docker Compose to run Kafka 
 1. Clone this repository:
 
     ```bash
-    git clone <repository_url>
-    cd <project_directory>
+    git clone https://github.com/sati-khachatryan/KafkaToMongoDbServic
     ```
 
 2. Run Docker Compose to start Kafka and MongoDB containers:
